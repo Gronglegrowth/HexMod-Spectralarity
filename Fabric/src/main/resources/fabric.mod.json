@@ -49,12 +49,13 @@
     "minecraft": "=1.19.2",
     "java": ">=17",
     "fabricloader": ">=0.14",
-    "fabric": ">=0.64",
+    "fabric": ">=0.76",
     "fabric-language-kotlin": ">=1.7.4+kotlin.1.6.21",
     "cardinal-components": "~5.0.0",
     "paucal": "0.5.x",
     "cloth-config": "8.2.x",
-    "patchouli": ">=1.19.2-77"
+    "patchouli": ">=1.19.2-77",
+    "spectrum": ">=1.7.6"
   },
   "suggests": {
     "gravitychanger": "0.7.21+fabric",
